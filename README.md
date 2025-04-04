@@ -84,8 +84,8 @@ The drone gathers real-time environmental and image data, processes it on-board 
 
 ## 👨‍👷️ Contributors
 
-- [Your Name]
-- [Team Members]
+- Praneeth Chand
+- Samuel Sudeep
 
 ## 📄 License
 
